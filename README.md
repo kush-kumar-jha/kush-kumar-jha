@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kush Kumar Jha 👋
 
-<!--
-**kush-kumar-jha/kush-kumar-jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (Data Science) Student at Chandigarh University
 
-Here are some ideas to get you started:
+💻 Skills:
+- Python
+- Java
+- SQL
+- Machine Learning
+- OpenCV
+- Streamlit
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+
+### Factory Reallocation Optimization System
+Optimization system for minimizing transportation and operational costs.
+
+### Disaster Damage Detection
+AI-powered disaster damage assessment using OpenCV and Machine Learning.
+
+### Enhanced Visual Summarization Pipeline
+Computer vision pipeline for disaster image analysis and summarization.
+
+### Breast Cancer Detection
+Machine Learning model for breast cancer prediction and diagnosis.
+
+📫 Connect with Me
+- LinkedIn: [Your LinkedIn]
+- GitHub: github.com/kush-kumar-jha
