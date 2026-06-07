@@ -1,148 +1,143 @@
-# Hi, I'm Kush Kumar Jha 👋
+<div align="center">
 
-🎓 Computer Science Engineering (Data Science) Student at Chandigarh University
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kush%20Kumar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-💡 Passionate about Data Science, Machine Learning, Statistics, Database Systems, Computer Vision, and Software Development.
+</div>
 
----
+<div align="center">
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kushjha7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushjha7)
+[![GitHub](https://img.shields.io/badge/GitHub-Kush--kumar--jha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kush-kumar-jha)
+[![Email](https://img.shields.io/badge/Email-jhakush87@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jhakush87@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Kush-kumar-jha&style=flat-square&color=blueviolet)](https://github.com/Kush-kumar-jha)
 
-- 🎓 CSE (Data Science) Student at Chandigarh University
-- 💻 Strong foundation in Programming, Database Management, and Problem Solving
-- 📊 Interested in Data Science, Machine Learning, Statistics, and Analytics
-- 🤖 Building AI-powered applications using Machine Learning and Computer Vision
-- 🚀 Experienced in developing and deploying real-world projects using Python, SQL, OpenCV, and Streamlit
-- 🌱 Continuously learning new technologies and improving problem-solving skills
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+<img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### Programming Languages
-- Python
-- Java
-- C
-- SQL
-- JavaScript
-- TypeScript
+### Hey, I'm Kush 👋
 
-### Data Science & Machine Learning
-- Machine Learning
-- Data Analysis
-- Data Visualization
-- Feature Engineering
-- Model Evaluation
-- OpenCV
-- Pandas
-- NumPy
-- Scikit-learn
+2nd-year CSE (Data Science) student at Chandigarh University — building production-grade AI systems that most engineers with years of experience haven't touched.
 
-### Database Management
-- DBMS
-- MySQL
-- SQL Queries
-- Joins
-- Normalization
-- Stored Procedures
-- Triggers
+Currently architecting an **AI Chief Data Officer (AI CDO)** platform — a 20-phase multi-agent system with AutoML, causal AI, forecasting foundation models, knowledge graphs, and a digital twin of a business. Designed to replace an entire data team.
 
-### Statistics
-- Probability
-- Bayes' Theorem
-- Hypothesis Testing
-- Correlation & Regression
-- Descriptive Statistics
-- Data Interpretation
+- 🔭 Building: **AI CDO — 20-phase multi-agent platform**
+- 🌱 Learning: **LangGraph · Causal Inference · System Design**
+- 👯 Open to: **Internships · Research collaborations**
+- 💬 Ask me about: **ML · Agents · Forecasting · Causal AI**
+- ⚡ Fact: I ship real products, not just notebooks
 
-### Tools & Platforms
-- Git
-- GitHub
-- Streamlit
-- Jupyter Notebook
-- VS Code
-
-### Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Database Management Systems
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Signature project
 
-### 🏭 Factory Reallocation Optimization System
-Optimization system designed to minimize factory relocation and transportation costs through data-driven decision making.
+### AI Chief Data Officer (AI CDO) &nbsp;·&nbsp; *In Development*
 
-🔗 Live Demo:
-https://factory-reallocation-optimization-system-kush.streamlit.app/
+> A 20-phase enterprise multi-agent AI system designed to replace a full data team.
 
----
+20 specialised agents — Data Engineer · Statistician · ML Scientist · Forecasting · Explainable AI · Root Cause Analysis · Decision Simulator · Board Meeting Simulator · Strategic Roadmap · CEO Chat — orchestrated with **LangGraph** on a full production stack.
 
-### 🍬 Nassau Candy Optimization
-Operations Research project focused on optimizing production and distribution strategies.
-
-🔗 Live Demo:
-https://qdqrs6c6dfcxndibhpyrhs.streamlit.app/
+`LangGraph` `DSPy` `PydanticAI` `MCP` `LiteLLM` `FastAPI` `Celery` `Next.js 14` `PostgreSQL` `DuckDB` `Neo4j` `Qdrant` `DoWhy` `EconML` `Chronos` `TimesFM` `N-HiTS` `AutoGluon` `XGBoost` `SHAP` `Docker` `AWS` `Terraform`
 
 ---
 
-### 🌍 Disaster Damage Detection
-AI-powered disaster assessment system using OpenCV, Machine Learning, Streamlit, and MySQL.
+## 🛠️ Deployed projects
 
-🔗 Live Demo:
-https://disaster-damage-detection-xpzgxyzn2hg43uiqtmeoel.streamlit.app/
-
----
-
-### 🧠 Breast Cancer Detection Using Machine Learning
-Machine Learning model built using the Wisconsin Breast Cancer dataset with preprocessing, feature scaling, EDA, and classification.
-
----
-
-### 📸 Enhanced Visual Summarization Pipeline
-Computer Vision-based disaster image analysis system using feature extraction and key-frame selection techniques.
+| Project | What it does | Stack | Live |
+|---------|-------------|-------|------|
+| 🏭 Factory Reallocation Optimizer | Minimizes factory relocation & transport costs | Python · OR · Streamlit | [Demo](https://factory-reallocation-optimization-system-kush.streamlit.app/) |
+| 🍬 Nassau Candy Optimizer | Production & distribution strategy via operations research | Python · Streamlit | [Demo](https://qdqrs6c6dfcxndibhpyrhs.streamlit.app/) |
+| 🌍 Disaster Damage Detection | AI-powered disaster assessment using computer vision | OpenCV · ML · MySQL · Streamlit | [Demo](https://disaster-damage-detection-xpzgxyzn2hg43uiqtmeoel.streamlit.app/) |
+| 🎗️ Breast Cancer Detection | ML classifier on Wisconsin dataset — EDA, scaling, classification | Scikit-learn · Pandas | — |
+| 📸 Visual Summarization Pipeline | CV-based disaster image analysis, key-frame selection | OpenCV · Python | — |
 
 ---
 
-## 🎯 Career Objective
+## 🧠 Tech stack
 
-Aspiring Data Scientist and Machine Learning Engineer seeking opportunities to apply analytical thinking, statistical knowledge, database management skills, and AI technologies to solve real-world business and engineering problems.
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**AI · ML · Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02B044?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Agents & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub stats
 
-- Advanced Machine Learning
-- Data Structures & Algorithms
-- Computer Vision
-- Optimization Techniques
-- System Design
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kush-kumar-jha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-kumar-jha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-## 🏆 Areas of Interest
+</div>
 
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Statistics
-- Database Systems
-- Software Development
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kush-kumar-jha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution graph
 
-💼 LinkedIn:
-https://www.linkedin.com/in/kushjha7
+<div align="center">
 
-💻 GitHub:
-https://github.com/kush-kumar-jha
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kush-kumar-jha/Kush-kumar-jha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kush-kumar-jha/Kush-kumar-jha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kush-kumar-jha/Kush-kumar-jha/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-## ⭐ Fun Fact
+<div align="center">
 
-I enjoy transforming real-world problems into data-driven solutions through Machine Learning, Statistics, Database Systems, and Optimization techniques.
+*2nd year. Building like it's year 10.*
+
+**Open to internships · research · and interesting problems**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
