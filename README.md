@@ -19,7 +19,7 @@
 
 ### Hey, I'm Kush 👋
 
-2nd-year CSE (Data Science) student at Chandigarh University — designing and building production-grade AI systems at an architectural level that most architects with years of experience haven't operated at.
+3rd-year CSE (Data Science) student at Chandigarh University — designing and building production-grade AI systems at an architectural level that most architects with years of experience haven't operated at.
 
 I don't just use AI tools. I architect **how they talk to each other, why certain models go where, and what the entire system topology looks like end-to-end.**
 
@@ -144,7 +144,7 @@ Currently architecting an **AI Chief Data Officer (AI CDO)** platform — a 20-p
 
 <div align="center">
 
-*2nd year. Architecting systems like it's year 10.*
+*3rd year. Architecting systems like it's year 10.*
 
 **Open to internships · research · and AI architecture-level problems**
 
