@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kush%20Kumar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kush%20Kumar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Architect%20%7C%20Data%20Scientist%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -15,49 +15,59 @@
 
 ---
 
-<img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="AI Architecture" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### Hey, I'm Kush 👋
 
-2nd-year CSE (Data Science) student at Chandigarh University — building production-grade AI systems that most engineers with years of experience haven't touched.
+2nd-year CSE (Data Science) student at Chandigarh University — designing and building production-grade AI systems at an architectural level that most architects with years of experience haven't operated at.
 
-Currently architecting an **AI Chief Data Officer (AI CDO)** platform — a 20-phase multi-agent system with AutoML, causal AI, forecasting foundation models, knowledge graphs, and a digital twin of a business. Designed to replace an entire data team.
+I don't just use AI tools. I architect **how they talk to each other, why certain models go where, and what the entire system topology looks like end-to-end.**
 
-- 🔭 Building: **AI CDO — 20-phase multi-agent platform**
-- 🌱 Learning: **LangGraph · Causal Inference · System Design**
-- 👯 Open to: **Internships · Research collaborations**
-- 💬 Ask me about: **ML · Agents · Forecasting · Causal AI**
-- ⚡ Fact: I ship real products, not just notebooks
+Currently architecting an **AI Chief Data Officer (AI CDO)** platform — a 20-phase multi-agent system with a designed topology of 20 specialised agents, causal AI, forecasting foundation models, knowledge graphs, and a digital twin of a business.
+
+- 🏗️ Architecting: **AI CDO — 20-phase multi-agent system**
+- 🧠 Thinking in: **System design · Agent topology · Data flow**
+- 🌱 Deepening: **Causal inference · LangGraph patterns · MLOps**
+- 👯 Open to: **Internships · Research · AI Architecture roles**
+- ⚡ Philosophy: Architect the system first. Then build it.
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Signature project
+## 🏗️ Signature Architecture
 
 ### AI Chief Data Officer (AI CDO) &nbsp;·&nbsp; *In Development*
 
-> A 20-phase enterprise multi-agent AI system designed to replace a full data team.
+> A 20-phase enterprise multi-agent AI system — architected to replace a full data team.
 
-20 specialised agents — Data Engineer · Statistician · ML Scientist · Forecasting · Explainable AI · Root Cause Analysis · Decision Simulator · Board Meeting Simulator · Strategic Roadmap · CEO Chat — orchestrated with **LangGraph** on a full production stack.
+**System topology:** 20 specialised agents with defined input/output contracts, orchestrated state machines via LangGraph, causal reasoning layer for genuine root cause analysis (not just correlation), dual AutoML + foundation model forecasting paths, a Neo4j knowledge graph connecting business entities, and a digital twin simulation layer for scenario planning.
+
+**Architecture decisions:**
+- LangGraph for agent state machines — not simple chains
+- DuckDB for in-process analytics (no roundtrip to external DB on uploads)
+- DoWhy + EconML as a causal layer — separates this from every other AutoML platform
+- Chronos + TimesFM for zero-shot forecasting before fine-tuning with N-HiTS
+- Qdrant for vector memory across agent sessions
+- WebSockets for real-time agent progress streaming to frontend
 
 `LangGraph` `DSPy` `PydanticAI` `MCP` `LiteLLM` `FastAPI` `Celery` `Next.js 14` `PostgreSQL` `DuckDB` `Neo4j` `Qdrant` `DoWhy` `EconML` `Chronos` `TimesFM` `N-HiTS` `AutoGluon` `XGBoost` `SHAP` `Docker` `AWS` `Terraform`
 
 ---
 
-## 🛠️ Deployed projects
+## 🛠️ Deployed Projects
 
 | Project | What it does | Stack | Live |
 |---------|-------------|-------|------|
-| 🏭 Factory Reallocation Optimizer | Minimizes factory relocation & transport costs | Python · OR · Streamlit | [Demo](https://factory-reallocation-optimization-system-kush.streamlit.app/) |
-| 🍬 Nassau Candy Optimizer | Production & distribution strategy via operations research | Python · Streamlit | [Demo](https://qdqrs6c6dfcxndibhpyrhs.streamlit.app/) |
+| 🏭 Factory Reallocation Optimizer | Minimizes factory relocation & transport costs through data-driven optimization | Python · OR · Streamlit | [Demo](https://factory-reallocation-optimization-system-kush.streamlit.app/) |
+| 🍬 Nassau Candy Optimizer | Production & distribution strategy optimizer using operations research | Python · Streamlit | [Demo](https://qdqrs6c6dfcxndibhpyrhs.streamlit.app/) |
 | 🌍 Disaster Damage Detection | AI-powered disaster assessment using computer vision | OpenCV · ML · MySQL · Streamlit | [Demo](https://disaster-damage-detection-xpzgxyzn2hg43uiqtmeoel.streamlit.app/) |
-| 🎗️ Breast Cancer Detection | ML classifier on Wisconsin dataset — EDA, scaling, classification | Scikit-learn · Pandas | — |
+| 🎗️ Breast Cancer Detection | ML classifier on Wisconsin dataset — EDA, feature scaling, classification | Scikit-learn · Pandas | — |
 | 📸 Visual Summarization Pipeline | CV-based disaster image analysis, key-frame selection | OpenCV · Python | — |
 
 ---
 
-## 🧠 Tech stack
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -79,7 +89,7 @@ Currently architecting an **AI Chief Data Officer (AI CDO)** platform — a 20-p
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Agents & LLMs**
+**AI Architecture & LLMs**
 
 ![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -101,7 +111,7 @@ Currently architecting an **AI Chief Data Officer (AI CDO)** platform — a 20-p
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -118,7 +128,7 @@ Currently architecting an **AI Chief Data Officer (AI CDO)** platform — a 20-p
 
 ---
 
-## 🐍 Contribution graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -134,9 +144,9 @@ Currently architecting an **AI Chief Data Officer (AI CDO)** platform — a 20-p
 
 <div align="center">
 
-*2nd year. Building like it's year 10.*
+*2nd year. Architecting systems like it's year 10.*
 
-**Open to internships · research · and interesting problems**
+**Open to internships · research · and AI architecture-level problems**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
